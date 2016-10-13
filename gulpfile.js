@@ -6,7 +6,7 @@ var cleanCSS = require('gulp-clean-css');
 var imagemin = require('gulp-imagemin');
 var del = require('del');
 
-/// http://my.paipai.com/cgi-bin/itementry/classchoose
+
 var paths = {
   css: 'css/**/',
   js: 'js/**/',
